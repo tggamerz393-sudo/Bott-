@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Cubiedsmp.aternos.me:",
+    "ip": "Cubiedsmp.aternos.me",
     "port": 47874,
     "version": "1.20.1",
     "try-creative": false
